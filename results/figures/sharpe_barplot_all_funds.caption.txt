@@ -1,0 +1,1 @@
+Sharpe ratio by fund and method. Risk-free rate assumed 0; the highest-Sharpe fund is highlighted. Sample: 2021-01-29 to 2023-12-31, out-of-sample. Units: Sharpe ratio (dimensionless). Source: Course-provided equity, crypto, and news headline data (context/DATA_GUIDE.md).

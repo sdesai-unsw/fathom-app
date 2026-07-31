@@ -1,0 +1,1 @@
+Portfolio weight over time, Combined Risk Parity. Top 5 holdings by average weight (ranked teal), all other holdings summed (navy). Sample: 2021-01-29 to 2023-12-31, out-of-sample. Units: Portfolio weight (0-1, sums to 1 each rebalance). Source: Course-provided equity, crypto, and news headline data (context/DATA_GUIDE.md).

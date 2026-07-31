@@ -1,0 +1,1 @@
+Drawdown from peak, Combined Risk Parity. Percentage decline in growth of $1 from its running maximum. Sample: 2021-01-29 to 2023-12-31, out-of-sample. Units: Percent. Source: Course-provided equity, crypto, and news headline data (context/DATA_GUIDE.md).

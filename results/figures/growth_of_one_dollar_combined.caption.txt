@@ -1,0 +1,1 @@
+Growth of $1 across the Combined fund's optimisation methods. Combined Risk Parity has the highest out-of-sample Sharpe ratio among the four Combined methods. Sample: 2021-01-29 to 2023-12-31, out-of-sample. Units: Dollars, from a $1 investment at each fund's first live rebalance. Source: Course-provided equity, crypto, and news headline data (context/DATA_GUIDE.md).

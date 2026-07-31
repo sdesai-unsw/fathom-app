@@ -1,0 +1,1 @@
+Equal-weight equity sector sentiment index. 21-trading-day rolling mean of the daily index in results/data/sector_sentiment_index.csv; no-headline ticker-days are scored neutral (0). Sample: 2020-01-02 to 2023-12-29. Units: VADER compound score, -1 (most negative) to +1 (most positive). Source: Course-provided equity, crypto, and news headline data (context/DATA_GUIDE.md).
